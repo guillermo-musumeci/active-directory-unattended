@@ -4,9 +4,9 @@ $DomainNetbiosName = "KOPICLOUD"
 $DatabasePath = "C:\Windows\NTDS"
 $SysvolPath = "C:\Windows\SYSVOL"
 $LogPath = "C:\Windows\NTDS"
-$SafeModeAdministratorPassword = "Ch@ng3M3"
+$SafeModeAdministratorPassword = "S3cr3t0"
 $ADAdmin = "kopiadmin"
-$ADPassword = "Ch@ng3M3"
+$ADPassword = "Ch@ng3M3N0w"
 
 # Import ServerManager 
 Import-Module ServerManager 
